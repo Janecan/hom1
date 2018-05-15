@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 int main() {
-	int i,j=0;
-	for(i=0;i<20;i++)
+	int k,j=0;
+	for(k=0;k<20;k++)
 	{
-		j=j+i;
+		j=j+k;
 	}
 
 printf("%d",j);
