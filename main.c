@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+int sum(int init,int end);
 int main() {
-	int k,j=0;
-	for(k=0;k<20;k++)
-	{
-		j=j+k;
-	}
-
-printf("%d",j);
+printf("%d",sum(1,21));
 }
