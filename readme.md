@@ -1,3 +1,2 @@
-# é›»å­ç³»
-## 0652029
-### ç¨‹å¼å…§å®¹:å¾1åŠ åˆ°20
+ «ü¦V«D±`¼Æ¸ê®Æªº«D±`¼Æ«ü¼Ğ
+(a non-constant pointer to non-constant data)
